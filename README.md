@@ -1,0 +1,2 @@
+# masterDetailJson
+MasterDetail JSON-Vorlage
